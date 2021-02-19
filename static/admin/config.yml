@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: brherron/gatsby-netlify-okta
+  branch: main
   
 media_folder: static/assets
 public_folder: assets
